@@ -31,7 +31,7 @@
 - Quality factor
 - Value & Quality factor
 - Momentum factor
-- Low vol factor
+- Low vol factor<br>
 (코스닥은 10년동안 배당주는 기업 73개에 불과, 2012,2013년에는 배당주 없음 → 제외)
 
 ## Team members
