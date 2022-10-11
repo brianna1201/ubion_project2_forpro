@@ -1,0 +1,1440 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>상세검색(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+	<col width="5%" />
+	<col width="5%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="50%" />
+	<col width="10%" />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">시간</th>
+		<th bgcolor="#66FF99">회사명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시제목</th>
+		<th bgcolor="#66FF99">제출인</th>
+	</tr>
+	
+	
+	
+	
+		
+			
+	<tr>
+		<td style="text-align:center;">398</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-20 20:33</td>
+ 
+	
+	
+		<td>이큐셀</td>
+		<td style="mso-number-format:'@';text-align:center;">160600</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">397</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-20 20:32</td>
+ 
+	
+	
+		<td>참존글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">158310</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">396</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-20 19:47</td>
+ 
+	
+	
+		<td>에이아이비트</td>
+		<td style="mso-number-format:'@';text-align:center;">039230</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">395</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-20 19:35</td>
+ 
+	
+	
+		<td>솔고바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">043100</td>
+	
+
+		<td>관리종목지정사유추가(자본잠식률 50% 이상)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">394</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-20 18:39</td>
+ 
+	
+	
+		<td>내츄럴엔도텍</td>
+		<td style="mso-number-format:'@';text-align:center;">168330</td>
+	
+
+		<td>관리종목지정사유추가(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">393</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-20 17:14</td>
+ 
+	
+	
+		<td>크루셜텍</td>
+		<td style="mso-number-format:'@';text-align:center;">114120</td>
+	
+
+		<td>관리종목지정(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">392</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 21:17</td>
+ 
+	
+	
+		<td>지더블유바이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">036180</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">391</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 21:09</td>
+ 
+	
+	
+		<td>메디앙스</td>
+		<td style="mso-number-format:'@';text-align:center;">014100</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">390</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 21:04</td>
+ 
+	
+	
+		<td>코나아이</td>
+		<td style="mso-number-format:'@';text-align:center;">052400</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">389</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 20:02</td>
+ 
+	
+	
+		<td>케스피온</td>
+		<td style="mso-number-format:'@';text-align:center;">079190</td>
+	
+
+		<td>관리종목지정사유추가(회생절차 개시신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">388</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 19:34</td>
+ 
+	
+	
+		<td>셀루메드</td>
+		<td style="mso-number-format:'@';text-align:center;">049180</td>
+	
+
+		<td>관리종목지정사유추가(자본잠식률 50% 이상)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">387</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 19:15</td>
+ 
+	
+	
+		<td>에스제이케이</td>
+		<td style="mso-number-format:'@';text-align:center;">080440</td>
+	
+
+		<td>관리종목지정사유추가(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">386</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 19:03</td>
+ 
+	
+	
+		<td>레드로버</td>
+		<td style="mso-number-format:'@';text-align:center;">060300</td>
+	
+
+		<td>관리종목지정사유추가(자본잠식률 50% 이상)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">385</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 18:59</td>
+ 
+	
+	
+		<td>제이웨이</td>
+		<td style="mso-number-format:'@';text-align:center;">058420</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">384</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 18:59</td>
+ 
+	
+	
+		<td>위메이드맥스</td>
+		<td style="mso-number-format:'@';text-align:center;">101730</td>
+	
+
+		<td>관리종목지정( 최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">383</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 18:27</td>
+ 
+	
+	
+		<td>CSA 코스믹</td>
+		<td style="mso-number-format:'@';text-align:center;">083660</td>
+	
+
+		<td>관리종목지정사유추가(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">382</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 17:27</td>
+ 
+	
+	
+		<td>피에이치씨</td>
+		<td style="mso-number-format:'@';text-align:center;">057880</td>
+	
+
+		<td>관리종목지정(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">381</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-18 19:13</td>
+ 
+	
+	
+		<td>이엠네트웍스</td>
+		<td style="mso-number-format:'@';text-align:center;">087730</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">380</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-18 18:17</td>
+ 
+	
+	
+		<td>레드로버</td>
+		<td style="mso-number-format:'@';text-align:center;">060300</td>
+	
+
+		<td>관리종목지정사유일부해제(파산 신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">379</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-18 18:11</td>
+ 
+	
+	
+		<td>에스앤더블류</td>
+		<td style="mso-number-format:'@';text-align:center;">103230</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">378</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-18 17:47</td>
+ 
+	
+	
+		<td>파나진</td>
+		<td style="mso-number-format:'@';text-align:center;">046210</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">377</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-17 19:23</td>
+ 
+	
+	
+		<td>알톤스포츠</td>
+		<td style="mso-number-format:'@';text-align:center;">123750</td>
+	
+
+		<td>관리종목지정사유추가(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">376</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-17 18:50</td>
+ 
+	
+	
+		<td>디에스앤엘</td>
+		<td style="mso-number-format:'@';text-align:center;">141020</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">375</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-16 20:05</td>
+ 
+	
+	
+		<td>코오롱티슈진</td>
+		<td style="mso-number-format:'@';text-align:center;">950160</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">374</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-16 18:44</td>
+ 
+	
+	
+		<td>코드네이처</td>
+		<td style="mso-number-format:'@';text-align:center;">078940</td>
+	
+
+		<td>관리종목지정사유일부해제(최근 4사업연도 연속 영업손실 발생 사유 해소  )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">373</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-13 18:26</td>
+ 
+	
+	
+		<td>픽셀플러스</td>
+		<td style="mso-number-format:'@';text-align:center;">087600</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">372</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-12 18:12</td>
+ 
+	
+	
+		<td>액션스퀘어</td>
+		<td style="mso-number-format:'@';text-align:center;">205500</td>
+	
+
+		<td>관리종목지정사유추가(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">371</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-06 18:11</td>
+ 
+	
+	
+		<td>제이웨이</td>
+		<td style="mso-number-format:'@';text-align:center;">058420</td>
+	
+
+		<td>관리종목지정(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">370</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-06 17:59</td>
+ 
+	
+	
+		<td>BNGT</td>
+		<td style="mso-number-format:'@';text-align:center;">032790</td>
+	
+
+		<td>관리종목지정사유일부해제(최근 4사업연도 연속 영업손실 발생 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">369</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-05 18:03</td>
+ 
+	
+	
+		<td>스포츠서울</td>
+		<td style="mso-number-format:'@';text-align:center;">039670</td>
+	
+
+		<td>관리종목지정사유추가(회생절차 개시신청 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">368</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-03 19:28</td>
+ 
+	
+	
+		<td>럭슬</td>
+		<td style="mso-number-format:'@';text-align:center;">033600</td>
+	
+
+		<td>관리종목지정사유추가(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">367</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-02 19:04</td>
+ 
+	
+	
+		<td>라이트론</td>
+		<td style="mso-number-format:'@';text-align:center;">069540</td>
+	
+
+		<td>관리종목지정사유일부해제(상장폐지 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">366</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-02 18:27</td>
+ 
+	
+	
+		<td>미래SCI</td>
+		<td style="mso-number-format:'@';text-align:center;">028040</td>
+	
+
+		<td>관리종목지정사유추가(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">365</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-02 17:58</td>
+ 
+	
+	
+		<td>코렌텍</td>
+		<td style="mso-number-format:'@';text-align:center;">104540</td>
+	
+
+		<td>관리종목지정사유일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">364</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-02 17:57</td>
+ 
+	
+	
+		<td>크로바하이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">043590</td>
+	
+
+		<td>관리종목지정사유추가(회생절차 개시신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">363</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-26 18:31</td>
+ 
+	
+	
+		<td>리드</td>
+		<td style="mso-number-format:'@';text-align:center;">197210</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">362</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-24 18:27</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td>관리종목지정(회생절차 개시신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">361</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-19 18:19</td>
+ 
+	
+	
+		<td>테라셈</td>
+		<td style="mso-number-format:'@';text-align:center;">182690</td>
+	
+
+		<td>관리종목지정사유추가및일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">360</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-19 17:53</td>
+ 
+	
+	
+		<td>한국제5호스팩</td>
+		<td style="mso-number-format:'@';text-align:center;">271740</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지 사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">359</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-12 18:18</td>
+ 
+	
+	
+		<td>코썬바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">204990</td>
+	
+
+		<td>관리종목지정(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">358</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-01-31 17:53</td>
+ 
+	
+	
+		<td>에스제이케이</td>
+		<td style="mso-number-format:'@';text-align:center;">080440</td>
+	
+
+		<td>관리종목지정사유일부해제(파산 신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">357</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-01-22 18:02</td>
+ 
+	
+	
+		<td>BNGT</td>
+		<td style="mso-number-format:'@';text-align:center;">032790</td>
+	
+
+		<td>관리종목지정사유추가(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">356</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-01-17 17:23</td>
+ 
+	
+	
+		<td>한국제5호스팩</td>
+		<td style="mso-number-format:'@';text-align:center;">271740</td>
+	
+
+		<td>관리종목지정(SPAC 상장예비심사청구서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">355</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-01-15 17:47</td>
+ 
+	
+	
+		<td>BNGT</td>
+		<td style="mso-number-format:'@';text-align:center;">032790</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">354</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-01-10 17:46</td>
+ 
+	
+	
+		<td>에스제이케이</td>
+		<td style="mso-number-format:'@';text-align:center;">080440</td>
+	
+
+		<td>관리종목지정사유추가(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">353</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-01-02 17:53</td>
+ 
+	
+	
+		<td>라이트론</td>
+		<td style="mso-number-format:'@';text-align:center;">069540</td>
+	
+
+		<td>관리종목지정사유일부해제(회생절차 개시신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">352</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-01-02 17:21</td>
+ 
+	
+	
+		<td>한화수성스팩</td>
+		<td style="mso-number-format:'@';text-align:center;">265920</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">351</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-12-26 17:21</td>
+ 
+	
+	
+		<td>셀루메드</td>
+		<td style="mso-number-format:'@';text-align:center;">049180</td>
+	
+
+		<td>관리종목지정(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">350</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-12-24 15:58</td>
+ 
+	
+	
+		<td>이엠앤아이</td>
+		<td style="mso-number-format:'@';text-align:center;">083470</td>
+	
+
+		<td>관리종목지정사유일부해제(회생절차 개시신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">349</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-12-18 17:53</td>
+ 
+	
+	
+		<td>미래에셋대우스팩1호</td>
+		<td style="mso-number-format:'@';text-align:center;">265480</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">348</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-12-13 17:02</td>
+ 
+	
+	
+		<td>리드</td>
+		<td style="mso-number-format:'@';text-align:center;">197210</td>
+	
+
+		<td>관리종목지정(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">347</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-12-12 18:21</td>
+ 
+	
+	
+		<td>이스트아시아홀딩스</td>
+		<td style="mso-number-format:'@';text-align:center;">900110</td>
+	
+
+		<td>관리종목지정(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">346</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-29 16:47</td>
+ 
+	
+	
+		<td>한화수성스팩</td>
+		<td style="mso-number-format:'@';text-align:center;">265920</td>
+	
+
+		<td>관리종목지정(SPAC 상장예비심사청구서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">345</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-28 17:29</td>
+ 
+	
+	
+		<td>하이소닉</td>
+		<td style="mso-number-format:'@';text-align:center;">106080</td>
+	
+
+		<td>관리종목지정사유일부해제(회생절차 개시신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">344</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-25 17:56</td>
+ 
+	
+	
+		<td>한화에이스스팩3호</td>
+		<td style="mso-number-format:'@';text-align:center;">264290</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지 사유발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">343</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-18 17:58</td>
+ 
+	
+	
+		<td>미래에셋대우스팩1호</td>
+		<td style="mso-number-format:'@';text-align:center;">265480</td>
+	
+
+		<td>관리종목지정(SPAC 상장예비심사청구서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">342</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-14 20:19</td>
+ 
+	
+	
+		<td>스포츠서울</td>
+		<td style="mso-number-format:'@';text-align:center;">039670</td>
+	
+
+		<td>관리종목지정사유추가(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">341</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-14 19:04</td>
+ 
+	
+	
+		<td>파인넥스</td>
+		<td style="mso-number-format:'@';text-align:center;">123260</td>
+	
+
+		<td>관리종목지정사유추가(분기보고서 미제출)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">340</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-14 17:04</td>
+ 
+	
+	
+		<td>비츠로시스</td>
+		<td style="mso-number-format:'@';text-align:center;">054220</td>
+	
+
+		<td>관리종목지정사유추가(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">339</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-11 18:06</td>
+ 
+	
+	
+		<td>씨씨에스</td>
+		<td style="mso-number-format:'@';text-align:center;">066790</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">338</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-11 17:36</td>
+ 
+	
+	
+		<td>아이톡시</td>
+		<td style="mso-number-format:'@';text-align:center;">052770</td>
+	
+
+		<td>관리종목지정사유일부해제(회생절차 개시신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">337</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-08 17:51</td>
+ 
+	
+	
+		<td>CNT85</td>
+		<td style="mso-number-format:'@';text-align:center;">056730</td>
+	
+
+		<td>관리종목지정사유추가및일부해제(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">336</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-06 17:18</td>
+ 
+	
+	
+		<td>골드앤에스</td>
+		<td style="mso-number-format:'@';text-align:center;">035290</td>
+	
+
+		<td>관리종목지정(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">335</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-11-04 18:21</td>
+ 
+	
+	
+		<td>레드로버</td>
+		<td style="mso-number-format:'@';text-align:center;">060300</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">334</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-10-30 18:22</td>
+ 
+	
+	
+		<td>셀바스AI</td>
+		<td style="mso-number-format:'@';text-align:center;">108860</td>
+	
+
+		<td>관리종목지정(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">333</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-10-28 18:44</td>
+ 
+	
+	
+		<td>행남사</td>
+		<td style="mso-number-format:'@';text-align:center;">008800</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">332</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-10-28 18:41</td>
+ 
+	
+	
+		<td>에이치디</td>
+		<td style="mso-number-format:'@';text-align:center;">102210</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">331</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-10-25 17:57</td>
+ 
+	
+	
+		<td>럭슬</td>
+		<td style="mso-number-format:'@';text-align:center;">033600</td>
+	
+
+		<td>관리종목지정사유일부해제(파산 신청 사유 해소 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">330</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-10-24 17:33</td>
+ 
+	
+	
+		<td>한화에이스스팩3호</td>
+		<td style="mso-number-format:'@';text-align:center;">264290</td>
+	
+
+		<td>관리종목지정( SPAC 상장예비심사청구서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">329</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-10-24 17:33</td>
+ 
+	
+	
+		<td>럭슬</td>
+		<td style="mso-number-format:'@';text-align:center;">033600</td>
+	
+
+		<td>관리종목지정사유추가(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">328</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-10-21 18:29</td>
+ 
+	
+	
+		<td>이스트아시아홀딩스</td>
+		<td style="mso-number-format:'@';text-align:center;">900110</td>
+	
+
+		<td>관리종목지정사유일부해제(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">327</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-10-18 17:58</td>
+ 
+	
+	
+		<td>이매진아시아</td>
+		<td style="mso-number-format:'@';text-align:center;">036260</td>
+	
+
+		<td>관리종목지정사유추가및일부해제(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">326</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-10-11 19:46</td>
+ 
+	
+	
+		<td>이매진아시아</td>
+		<td style="mso-number-format:'@';text-align:center;">036260</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">325</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-10-01 16:45</td>
+ 
+	
+	
+		<td>경남제약</td>
+		<td style="mso-number-format:'@';text-align:center;">053950</td>
+	
+
+		<td>관리종목지정사유일부해제(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">324</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-09-25 17:55</td>
+ 
+	
+	
+		<td>대신밸런스제4호스팩</td>
+		<td style="mso-number-format:'@';text-align:center;">262830</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">323</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-09-18 17:38</td>
+ 
+	
+	
+		<td>신한제3호스팩</td>
+		<td style="mso-number-format:'@';text-align:center;">257730</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">322</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-09-10 19:19</td>
+ 
+	
+	
+		<td>녹원씨엔아이</td>
+		<td style="mso-number-format:'@';text-align:center;">065560</td>
+	
+
+		<td>관리종목지정(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">321</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-09-06 17:30</td>
+ 
+	
+	
+		<td>바른전자</td>
+		<td style="mso-number-format:'@';text-align:center;">064520</td>
+	
+
+		<td>관리종목지정사유추가(회생절차 개시신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">320</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-29 19:21</td>
+ 
+	
+	
+		<td>한국정밀기계</td>
+		<td style="mso-number-format:'@';text-align:center;">101680</td>
+	
+
+		<td>관리종목지정사유일부해제(상장폐지 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">319</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-29 19:14</td>
+ 
+	
+	
+		<td>세토피아</td>
+		<td style="mso-number-format:'@';text-align:center;">222810</td>
+	
+
+		<td>관리종목지정(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정 등 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">318</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-29 19:13</td>
+ 
+	
+	
+		<td>제이테크놀로지</td>
+		<td style="mso-number-format:'@';text-align:center;">035480</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">317</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-29 18:17</td>
+ 
+	
+	
+		<td>경남제약</td>
+		<td style="mso-number-format:'@';text-align:center;">053950</td>
+	
+
+		<td>관리종목지정사유추가(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">316</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-29 18:13</td>
+ 
+	
+	
+		<td>이스트아시아홀딩스</td>
+		<td style="mso-number-format:'@';text-align:center;">900110</td>
+	
+
+		<td>관리종목지정사유추가(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">315</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-29 18:13</td>
+ 
+	
+	
+		<td>코오롱티슈진</td>
+		<td style="mso-number-format:'@';text-align:center;">950160</td>
+	
+
+		<td>관리종목지정사유추가(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">314</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-29 17:06</td>
+ 
+	
+	
+		<td>차이나그레이트</td>
+		<td style="mso-number-format:'@';text-align:center;">900040</td>
+	
+
+		<td>관리종목지정사유추가(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">313</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-29 17:06</td>
+ 
+	
+	
+		<td>디엑스앤브이엑스</td>
+		<td style="mso-number-format:'@';text-align:center;">180400</td>
+	
+
+		<td>관리종목지정사유추가(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">312</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-27 19:04</td>
+ 
+	
+	
+		<td>EV수성</td>
+		<td style="mso-number-format:'@';text-align:center;">084180</td>
+	
+
+		<td>관리종목지정사유일부해제(상장유지 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">311</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-26 18:08</td>
+ 
+	
+	
+		<td>CNT85</td>
+		<td style="mso-number-format:'@';text-align:center;">056730</td>
+	
+
+		<td>관리종목지정사유추가(반기보고서 법정제출기한 익일부터 10일 이내 반기 검토(감사)보고서 미제출)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">310</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-26 18:07</td>
+ 
+	
+	
+		<td>이매진아시아</td>
+		<td style="mso-number-format:'@';text-align:center;">036260</td>
+	
+
+		<td>관리종목지정사유추가(반기보고서 법정제출기한 익일부터 10일 이내 반기 검토(감사)보고서 미제출)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">309</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-23 18:08</td>
+ 
+	
+	
+		<td>영신금속</td>
+		<td style="mso-number-format:'@';text-align:center;">007530</td>
+	
+
+		<td>관리종목지정사유일부해제(반기보고서 미제출 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">308</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-23 17:57</td>
+ 
+	
+	
+		<td>셀바스AI</td>
+		<td style="mso-number-format:'@';text-align:center;">108860</td>
+	
+
+		<td>관리종목지정사유일부해제(반기보고서 미제출 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">307</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-23 17:32</td>
+ 
+	
+	
+		<td>대신밸런스제4호스팩</td>
+		<td style="mso-number-format:'@';text-align:center;">262830</td>
+	
+
+		<td>관리종목지정(SPAC 상장예비심사청구서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">306</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-23 17:11</td>
+ 
+	
+	
+		<td>피앤텔</td>
+		<td style="mso-number-format:'@';text-align:center;">054340</td>
+	
+
+		<td>관리종목지정사유추가및일부해제(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">305</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-22 17:53</td>
+ 
+	
+	
+		<td>레드로버</td>
+		<td style="mso-number-format:'@';text-align:center;">060300</td>
+	
+
+		<td>관리종목지정사유추가(상장적격성 실질심사 대상 결정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">304</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-22 17:26</td>
+ 
+	
+	
+		<td>퓨전</td>
+		<td style="mso-number-format:'@';text-align:center;">195440</td>
+	
+
+		<td>관리종목지정사유일부해제(자본잠식률 50% 미만으로 회복 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">303</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-21 18:25</td>
+ 
+	
+	
+		<td>에스마크</td>
+		<td style="mso-number-format:'@';text-align:center;">030270</td>
+	
+
+		<td>관리종목지정사유일부해제(반기보고서 미제출 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">302</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-21 10:49</td>
+ 
+	
+	
+		<td>파인넥스</td>
+		<td style="mso-number-format:'@';text-align:center;">123260</td>
+	
+
+		<td>관리종목지정사유일부해제(반기보고서 미제출 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">301</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-19 18:18</td>
+ 
+	
+	
+		<td>파인넥스</td>
+		<td style="mso-number-format:'@';text-align:center;">123260</td>
+	
+
+		<td>관리종목지정사유추가(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">300</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-19 17:27</td>
+ 
+	
+	
+		<td>SK3호스팩</td>
+		<td style="mso-number-format:'@';text-align:center;">232330</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">299</td>
+		<td style="mso-number-format:'@';text-align:center;">2019-08-16 19:16</td>
+ 
+	
+	
+		<td>넥슨게임즈</td>
+		<td style="mso-number-format:'@';text-align:center;">225570</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+		
+		
+	
+</table>
+
+</body>
+</html>

@@ -1,0 +1,1440 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>상세검색(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+	<col width="5%" />
+	<col width="5%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="50%" />
+	<col width="10%" />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">시간</th>
+		<th bgcolor="#66FF99">회사명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시제목</th>
+		<th bgcolor="#66FF99">제출인</th>
+	</tr>
+	
+	
+	
+	
+		
+			
+	<tr>
+		<td style="text-align:center;">198</td>
+		<td style="mso-number-format:'@';text-align:center;">2017-03-15 19:21</td>
+ 
+	
+	
+		<td>WI</td>
+		<td style="mso-number-format:'@';text-align:center;">073570</td>
+	
+
+		<td>관리종목지정사유추가(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">197</td>
+		<td style="mso-number-format:'@';text-align:center;">2017-03-15 19:04</td>
+ 
+	
+	
+		<td>씨엔플러스</td>
+		<td style="mso-number-format:'@';text-align:center;">115530</td>
+	
+
+		<td>관리종목지정(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">196</td>
+		<td style="mso-number-format:'@';text-align:center;">2017-03-15 18:30</td>
+ 
+	
+	
+		<td>한국정밀기계</td>
+		<td style="mso-number-format:'@';text-align:center;">101680</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">195</td>
+		<td style="mso-number-format:'@';text-align:center;">2017-03-15 18:07</td>
+ 
+	
+	
+		<td>제넨바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">072520</td>
+	
+
+		<td>관리종목지정사유추가(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">194</td>
+		<td style="mso-number-format:'@';text-align:center;">2017-02-15 18:42</td>
+ 
+	
+	
+		<td>SBW생명과학</td>
+		<td style="mso-number-format:'@';text-align:center;">151910</td>
+	
+
+		<td>관리종목지정사유일부해제(회생절차 개시신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">193</td>
+		<td style="mso-number-format:'@';text-align:center;">2017-02-13 19:09</td>
+ 
+	
+	
+		<td>프리젠</td>
+		<td style="mso-number-format:'@';text-align:center;">060910</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">192</td>
+		<td style="mso-number-format:'@';text-align:center;">2017-01-18 18:46</td>
+ 
+	
+	
+		<td>골드퍼시픽</td>
+		<td style="mso-number-format:'@';text-align:center;">038530</td>
+	
+
+		<td>관리종목지정(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">191</td>
+		<td style="mso-number-format:'@';text-align:center;">2017-01-18 18:19</td>
+ 
+	
+	
+		<td>디에스티</td>
+		<td style="mso-number-format:'@';text-align:center;">033430</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지 사유 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">190</td>
+		<td style="mso-number-format:'@';text-align:center;">2017-01-18 18:19</td>
+ 
+	
+	
+		<td>케이엔씨글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">068150</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">189</td>
+		<td style="mso-number-format:'@';text-align:center;">2017-01-13 14:00</td>
+ 
+	
+	
+		<td>UCI</td>
+		<td style="mso-number-format:'@';text-align:center;">038340</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">188</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-12-19 18:27</td>
+ 
+	
+	
+		<td>디에스티</td>
+		<td style="mso-number-format:'@';text-align:center;">033430</td>
+	
+
+		<td>관리종목지정사유추가(불성실공시)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">187</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-12-15 18:09</td>
+ 
+	
+	
+		<td>케이엔씨글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">068150</td>
+	
+
+		<td>관리종목지정사유일부해제(파산 신청 사유 해소 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">186</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-12-13 15:57</td>
+ 
+	
+	
+		<td>에스에스컴텍</td>
+		<td style="mso-number-format:'@';text-align:center;">036500</td>
+	
+
+		<td>관리종목지정사유일부해제(파산신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">185</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-12-02 15:55</td>
+ 
+	
+	
+		<td>에이티세미콘</td>
+		<td style="mso-number-format:'@';text-align:center;">089530</td>
+	
+
+		<td>관리종목 해제(불성실공시로 인한 관리종목 지정사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">184</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-11-30 18:08</td>
+ 
+	
+	
+		<td>에스제이케이</td>
+		<td style="mso-number-format:'@';text-align:center;">080440</td>
+	
+
+		<td>관리종목지정사유일부해제(상장폐지 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">183</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-11-21 17:46</td>
+ 
+	
+	
+		<td>에스제이케이</td>
+		<td style="mso-number-format:'@';text-align:center;">080440</td>
+	
+
+		<td>관리종목지정사유일부해제(최근 4사업연도 연속 영업손실 발생 사유 해소 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">182</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-11-17 19:00</td>
+ 
+	
+	
+		<td>위너지스</td>
+		<td style="mso-number-format:'@';text-align:center;">026260</td>
+	
+
+		<td>관리종목지정(불성실공시)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">181</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-11-14 19:37</td>
+ 
+	
+	
+		<td>CNT85</td>
+		<td style="mso-number-format:'@';text-align:center;">056730</td>
+	
+
+		<td>관리종목지정(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">180</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-11-14 19:34</td>
+ 
+	
+	
+		<td>리더스 기술투자</td>
+		<td style="mso-number-format:'@';text-align:center;">019570</td>
+	
+
+		<td>관리종목지정사유일부해제(자본잠식률 50% 미만으로 회복)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">179</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-11-14 18:34</td>
+ 
+	
+	
+		<td>에스에스컴텍</td>
+		<td style="mso-number-format:'@';text-align:center;">036500</td>
+	
+
+		<td>관리종목지정사유추가(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">178</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-09-20 18:27</td>
+ 
+	
+	
+		<td>WI</td>
+		<td style="mso-number-format:'@';text-align:center;">073570</td>
+	
+
+		<td>관리종목지정(불성실공시)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">177</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-09-20 16:45</td>
+ 
+	
+	
+		<td>에스에스컴텍</td>
+		<td style="mso-number-format:'@';text-align:center;">036500</td>
+	
+
+		<td>관리종목지정사유일부해제(파산 신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">176</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-09-19 18:55</td>
+ 
+	
+	
+		<td>소리바다</td>
+		<td style="mso-number-format:'@';text-align:center;">053110</td>
+	
+
+		<td>관리종목지정(불성실공시)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">175</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-09-05 18:15</td>
+ 
+	
+	
+		<td>엔에스브이</td>
+		<td style="mso-number-format:'@';text-align:center;">095300</td>
+	
+
+		<td>관리종목지정사유일부해제(상장폐지 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">174</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-26 18:49</td>
+ 
+	
+	
+		<td>씨엘인터내셔널</td>
+		<td style="mso-number-format:'@';text-align:center;">037340</td>
+	
+
+		<td>관리종목지정사유추가및일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">173</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-26 18:16</td>
+ 
+	
+	
+		<td>아이팩토리</td>
+		<td style="mso-number-format:'@';text-align:center;">053810</td>
+	
+
+		<td>관리종목지정사유일부해제(반기보고서 미제출 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">172</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-26 18:16</td>
+ 
+	
+	
+		<td>케이엔씨글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">068150</td>
+	
+
+		<td>관리종목지정사유추가(반기보고서 법정제출기한 익일부터 10일 이내 반기 검토(감사)보고서 미제출)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">171</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-26 16:48</td>
+ 
+	
+	
+		<td>KX하이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">052900</td>
+	
+
+		<td>관리종목 해제(불성실공시로 인한 관리종목 지정사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">170</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-25 17:12</td>
+ 
+	
+	
+		<td>SBW생명과학</td>
+		<td style="mso-number-format:'@';text-align:center;">151910</td>
+	
+
+		<td>관리종목지정사유추가및일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">169</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-18 17:14</td>
+ 
+	
+	
+		<td>시너지이노베이션</td>
+		<td style="mso-number-format:'@';text-align:center;">048870</td>
+	
+
+		<td>관리종목지정사유일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">168</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-16 22:08</td>
+ 
+	
+	
+		<td>엠제이비</td>
+		<td style="mso-number-format:'@';text-align:center;">074150</td>
+	
+
+		<td>관리종목지정사유추가(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">167</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-16 22:07</td>
+ 
+	
+	
+		<td>케이에스피</td>
+		<td style="mso-number-format:'@';text-align:center;">073010</td>
+	
+
+		<td>관리종목지정사유추가(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">166</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-16 22:07</td>
+ 
+	
+	
+		<td>디에스티</td>
+		<td style="mso-number-format:'@';text-align:center;">033430</td>
+	
+
+		<td>관리종목지정사유일부해제(자본잠식률 50% 미만으로 회복)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">165</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-16 21:51</td>
+ 
+	
+	
+		<td>SBW생명과학</td>
+		<td style="mso-number-format:'@';text-align:center;">151910</td>
+	
+
+		<td>관리종목지정사유추가(반기보고서 미제출)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">164</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-16 21:48</td>
+ 
+	
+	
+		<td>에스에스컴텍</td>
+		<td style="mso-number-format:'@';text-align:center;">036500</td>
+	
+
+		<td>관리종목지정사유추가(반기검토(감사)의견 부적정, 의견거절 또는 범위제한 한정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">163</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-16 21:48</td>
+ 
+	
+	
+		<td>씨엘인터내셔널</td>
+		<td style="mso-number-format:'@';text-align:center;">037340</td>
+	
+
+		<td>관리종목지정사유추가(반기보고서 미제출)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">162</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-16 21:47</td>
+ 
+	
+	
+		<td>우전</td>
+		<td style="mso-number-format:'@';text-align:center;">052270</td>
+	
+
+		<td>관리종목지정사유추가(자본잠식률 50%이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">161</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-16 21:44</td>
+ 
+	
+	
+		<td>엔에스브이</td>
+		<td style="mso-number-format:'@';text-align:center;">095300</td>
+	
+
+		<td>관리종목지정사유추가(반기보고서 미제출)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">160</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-16 21:43</td>
+ 
+	
+	
+		<td>아이팩토리</td>
+		<td style="mso-number-format:'@';text-align:center;">053810</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">159</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-16 21:43</td>
+ 
+	
+	
+		<td>케이엔씨글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">068150</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">158</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-10 18:05</td>
+ 
+	
+	
+		<td>와이오엠</td>
+		<td style="mso-number-format:'@';text-align:center;">066430</td>
+	
+
+		<td>관리종목지정(불성실공시)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">157</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-08-09 18:34</td>
+ 
+	
+	
+		<td>에스에스컴텍</td>
+		<td style="mso-number-format:'@';text-align:center;">036500</td>
+	
+
+		<td>관리종목지정사유추가(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">156</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-07-22 18:48</td>
+ 
+	
+	
+		<td>파이오링크</td>
+		<td style="mso-number-format:'@';text-align:center;">170790</td>
+	
+
+		<td>관리종목지정사유일부해제(상장폐지 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">155</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-07-22 18:21</td>
+ 
+	
+	
+		<td>케이에스피</td>
+		<td style="mso-number-format:'@';text-align:center;">073010</td>
+	
+
+		<td>관리종목지정(회생절차 개시신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">154</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-07-05 18:45</td>
+ 
+	
+	
+		<td>케이엔씨글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">068150</td>
+	
+
+		<td>관리종목지정(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">153</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-06-30 18:38</td>
+ 
+	
+	
+		<td>비엔씨컴퍼니</td>
+		<td style="mso-number-format:'@';text-align:center;">058370</td>
+	
+
+		<td>관리종목지정사유일부해제(파산 신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">152</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-06-27 17:45</td>
+ 
+	
+	
+		<td>비엔씨컴퍼니</td>
+		<td style="mso-number-format:'@';text-align:center;">058370</td>
+	
+
+		<td>관리종목지정사유추가(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">151</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-06-21 17:50</td>
+ 
+	
+	
+		<td>리더스 기술투자</td>
+		<td style="mso-number-format:'@';text-align:center;">019570</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">150</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-06-17 16:24</td>
+ 
+	
+	
+		<td>스포츠서울</td>
+		<td style="mso-number-format:'@';text-align:center;">039670</td>
+	
+
+		<td>관리종목지정사유추가(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">149</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-06-14 18:29</td>
+ 
+	
+	
+		<td>피엘에이</td>
+		<td style="mso-number-format:'@';text-align:center;">082390</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지 사유 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">148</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-06-14 15:51</td>
+ 
+	
+	
+		<td>UCI</td>
+		<td style="mso-number-format:'@';text-align:center;">038340</td>
+	
+
+		<td>관리종목지정사유일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">147</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-06-01 15:54</td>
+ 
+	
+	
+		<td>엔에스브이</td>
+		<td style="mso-number-format:'@';text-align:center;">095300</td>
+	
+
+		<td>관리종목지정사유일부해제(분기보고서 미제출 사유 해소 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">146</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-05-30 19:17</td>
+ 
+	
+	
+		<td>엔에스브이</td>
+		<td style="mso-number-format:'@';text-align:center;">095300</td>
+	
+
+		<td>관리종목지정사유추가(분기보고서 미제출 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">145</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-05-23 18:47</td>
+ 
+	
+	
+		<td>시너지이노베이션</td>
+		<td style="mso-number-format:'@';text-align:center;">048870</td>
+	
+
+		<td>관리종목지정사유일부해제(회생절차 개시신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">144</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-05-17 17:56</td>
+ 
+	
+	
+		<td>신양오라컴</td>
+		<td style="mso-number-format:'@';text-align:center;">086830</td>
+	
+
+		<td>관리종목지정사유일부해제(분기보고서 미제출 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">143</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-05-16 20:01</td>
+ 
+	
+	
+		<td>신양오라컴</td>
+		<td style="mso-number-format:'@';text-align:center;">086830</td>
+	
+
+		<td>관리종목지정사유추가(분기보고서 미제출)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">142</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-04-18 18:58</td>
+ 
+	
+	
+		<td>SBW생명과학</td>
+		<td style="mso-number-format:'@';text-align:center;">151910</td>
+	
+
+		<td>관리종목지정(회생절차 개시신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">141</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-04-12 18:26</td>
+ 
+	
+	
+		<td>케이엔씨글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">068150</td>
+	
+
+		<td>관리종목지정(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">140</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-04-11 18:49</td>
+ 
+	
+	
+		<td>현진소재</td>
+		<td style="mso-number-format:'@';text-align:center;">053660</td>
+	
+
+		<td>관리종목지정사유일부해제(반기보고서 법정제출기한 익일부터 10일 이내 반기 검토(감사)보고서 미제출 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">139</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-04-11 18:46</td>
+ 
+	
+	
+		<td>THE E&M</td>
+		<td style="mso-number-format:'@';text-align:center;">089230</td>
+	
+
+		<td>관리종목지정사유일부해제(자본잠식률 50% 미만으로 회복)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">138</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-04-11 18:39</td>
+ 
+	
+	
+		<td>아이디에스</td>
+		<td style="mso-number-format:'@';text-align:center;">078780</td>
+	
+
+		<td>관리종목지정사유일부해제(사업보고서 미제출 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">137</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-04-08 18:54</td>
+ 
+	
+	
+		<td>제이앤유글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">086200</td>
+	
+
+		<td>관리종목지정사유일부해제(사업보고서 미제출 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">136</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-04-05 17:11</td>
+ 
+	
+	
+		<td>휴먼엔</td>
+		<td style="mso-number-format:'@';text-align:center;">032860</td>
+	
+
+		<td>관리종목지정사유일부해제(회생절차 개시신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">135</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 22:46</td>
+ 
+	
+	
+		<td>파이오링크</td>
+		<td style="mso-number-format:'@';text-align:center;">170790</td>
+	
+
+		<td>관리종목지정사유추가(재무제표 미승인)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">134</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 22:46</td>
+ 
+	
+	
+		<td>피에이치씨</td>
+		<td style="mso-number-format:'@';text-align:center;">057880</td>
+	
+
+		<td>관리종목지정사유추가(정기주주총회 미개최)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">133</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 22:46</td>
+ 
+	
+	
+		<td>제이앤유글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">086200</td>
+	
+
+		<td>관리종목지정사유추가(사업보고서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">132</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 22:46</td>
+ 
+	
+	
+		<td>아이디에스</td>
+		<td style="mso-number-format:'@';text-align:center;">078780</td>
+	
+
+		<td>관리종목지정사유추가(사업보고서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">131</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 22:38</td>
+ 
+	
+	
+		<td>시너지이노베이션</td>
+		<td style="mso-number-format:'@';text-align:center;">048870</td>
+	
+
+		<td>관리종목지정사유일부해제(상장폐지 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">130</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 22:38</td>
+ 
+	
+	
+		<td>시너지이노베이션</td>
+		<td style="mso-number-format:'@';text-align:center;">048870</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">129</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 21:01</td>
+ 
+	
+	
+		<td>휴먼엔</td>
+		<td style="mso-number-format:'@';text-align:center;">032860</td>
+	
+
+		<td>관리종목지정사유일부해제(정기주주총회 미개최 또는 재무제표 미승인 사유해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">128</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 20:55</td>
+ 
+	
+	
+		<td>엠제이비</td>
+		<td style="mso-number-format:'@';text-align:center;">074150</td>
+	
+
+		<td>관리종목지정사유추가(정기주주총회 미개최 또는 재무제표 미승인)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">127</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 20:55</td>
+ 
+	
+	
+		<td>THE E&M</td>
+		<td style="mso-number-format:'@';text-align:center;">089230</td>
+	
+
+		<td>관리종목지정사유추가(사업보고서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">126</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 20:54</td>
+ 
+	
+	
+		<td>현진소재</td>
+		<td style="mso-number-format:'@';text-align:center;">053660</td>
+	
+
+		<td>관리종목지정사유추가(사업보고서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">125</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-30 15:39</td>
+ 
+	
+	
+		<td>디에스티</td>
+		<td style="mso-number-format:'@';text-align:center;">033430</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">124</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-29 18:18</td>
+ 
+	
+	
+		<td>우전</td>
+		<td style="mso-number-format:'@';text-align:center;">052270</td>
+	
+
+		<td>관리종목지정사유일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">123</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-29 18:12</td>
+ 
+	
+	
+		<td>대한그린파워</td>
+		<td style="mso-number-format:'@';text-align:center;">060900</td>
+	
+
+		<td>관리종목지정사유일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">122</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-28 14:32</td>
+ 
+	
+	
+		<td>파이오링크</td>
+		<td style="mso-number-format:'@';text-align:center;">170790</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">121</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-25 16:25</td>
+ 
+	
+	
+		<td>CS</td>
+		<td style="mso-number-format:'@';text-align:center;">065770</td>
+	
+
+		<td>관리종목지정(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">120</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 23:14</td>
+ 
+	
+	
+		<td>플렉스컴</td>
+		<td style="mso-number-format:'@';text-align:center;">065270</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">119</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 23:12</td>
+ 
+	
+	
+		<td>위메이드맥스</td>
+		<td style="mso-number-format:'@';text-align:center;">101730</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">118</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 23:12</td>
+ 
+	
+	
+		<td>피엘에이</td>
+		<td style="mso-number-format:'@';text-align:center;">082390</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">117</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 23:11</td>
+ 
+	
+	
+		<td>신양오라컴</td>
+		<td style="mso-number-format:'@';text-align:center;">086830</td>
+	
+
+		<td>관리종목지정(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">116</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 23:09</td>
+ 
+	
+	
+		<td>씨엘인터내셔널</td>
+		<td style="mso-number-format:'@';text-align:center;">037340</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">115</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 23:07</td>
+ 
+	
+	
+		<td>에스에스컴텍</td>
+		<td style="mso-number-format:'@';text-align:center;">036500</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">114</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 23:07</td>
+ 
+	
+	
+		<td>제이앤유글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">086200</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">113</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 23:01</td>
+ 
+	
+	
+		<td>비엔씨컴퍼니</td>
+		<td style="mso-number-format:'@';text-align:center;">058370</td>
+	
+
+		<td>관리종목지정(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">112</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 23:01</td>
+ 
+	
+	
+		<td>엠제이비</td>
+		<td style="mso-number-format:'@';text-align:center;">074150</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">111</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 23:01</td>
+ 
+	
+	
+		<td>엔에스브이</td>
+		<td style="mso-number-format:'@';text-align:center;">095300</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">110</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 21:34</td>
+ 
+	
+	
+		<td>아이팩토리</td>
+		<td style="mso-number-format:'@';text-align:center;">053810</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">109</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 21:33</td>
+ 
+	
+	
+		<td>에스제이케이</td>
+		<td style="mso-number-format:'@';text-align:center;">080440</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">108</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 21:10</td>
+ 
+	
+	
+		<td>오상헬스케어</td>
+		<td style="mso-number-format:'@';text-align:center;">036220</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">107</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-22 21:10</td>
+ 
+	
+	
+		<td>휴먼엔</td>
+		<td style="mso-number-format:'@';text-align:center;">032860</td>
+	
+
+		<td>관리종목지정사유추가및일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">106</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-21 19:04</td>
+ 
+	
+	
+		<td>우전</td>
+		<td style="mso-number-format:'@';text-align:center;">052270</td>
+	
+
+		<td>관리종목지정사유추가(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">105</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-21 19:01</td>
+ 
+	
+	
+		<td>대한그린파워</td>
+		<td style="mso-number-format:'@';text-align:center;">060900</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">104</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-21 18:58</td>
+ 
+	
+	
+		<td>제넨바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">072520</td>
+	
+
+		<td>관리종목지정(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">103</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-18 18:34</td>
+ 
+	
+	
+		<td>코데즈컴바인</td>
+		<td style="mso-number-format:'@';text-align:center;">047770</td>
+	
+
+		<td>관리종목지정사유추가및일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">102</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-17 19:40</td>
+ 
+	
+	
+		<td>아이앤씨</td>
+		<td style="mso-number-format:'@';text-align:center;">052860</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">101</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-17 19:37</td>
+ 
+	
+	
+		<td>동일철강</td>
+		<td style="mso-number-format:'@';text-align:center;">023790</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">100</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-16 18:00</td>
+ 
+	
+	
+		<td>에이디칩스</td>
+		<td style="mso-number-format:'@';text-align:center;">054630</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">99</td>
+		<td style="mso-number-format:'@';text-align:center;">2016-03-15 18:33</td>
+ 
+	
+	
+		<td>UCI</td>
+		<td style="mso-number-format:'@';text-align:center;">038340</td>
+	
+
+		<td>관리종목지정사유추가(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+		
+		
+	
+</table>
+
+</body>
+</html>

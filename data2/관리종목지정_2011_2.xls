@@ -1,0 +1,1048 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>상세검색(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+	<col width="5%" />
+	<col width="5%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="50%" />
+	<col width="10%" />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">시간</th>
+		<th bgcolor="#66FF99">회사명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시제목</th>
+		<th bgcolor="#66FF99">제출인</th>
+	</tr>
+	
+	
+	
+	
+		
+			
+	<tr>
+		<td style="text-align:center;">72</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 21:34</td>
+ 
+	
+	
+		<td>세원물산</td>
+		<td style="mso-number-format:'@';text-align:center;">024830</td>
+	
+
+		<td>관리종목지정(거래실적부진)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">71</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 21:32</td>
+ 
+	
+	
+		<td>대선조선</td>
+		<td style="mso-number-format:'@';text-align:center;">031990</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">70</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 21:24</td>
+ 
+	
+	
+		<td>포휴먼</td>
+		<td style="mso-number-format:'@';text-align:center;">049690</td>
+	
+
+		<td>관리종목지정사유추가(사업보고서 미제출)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">69</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 21:05</td>
+ 
+	
+	
+		<td>에코솔루션</td>
+		<td style="mso-number-format:'@';text-align:center;">052510</td>
+	
+
+		<td>관리종목지정사유추가(사업보고서 미제출)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">68</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 21:03</td>
+ 
+	
+	
+		<td>씨모텍</td>
+		<td style="mso-number-format:'@';text-align:center;">081090</td>
+	
+
+		<td>관리종목지정사유추가(정기주주총회 미개최 또는 재무제표 미승인)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">67</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 20:40</td>
+ 
+	
+	
+		<td>엠엔에프씨</td>
+		<td style="mso-number-format:'@';text-align:center;">048640</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">66</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 20:33</td>
+ 
+	
+	
+		<td>디패션</td>
+		<td style="mso-number-format:'@';text-align:center;">030420</td>
+	
+
+		<td>관리종목지정사유추가(정기주주총회 미개최 또는 재무제표 미승인 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">65</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 20:33</td>
+ 
+	
+	
+		<td>유니텍전자</td>
+		<td style="mso-number-format:'@';text-align:center;">039040</td>
+	
+
+		<td>관리종목지정사유추가(정기주주총회 미개최 또는 재무제표 미승인 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">64</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 20:28</td>
+ 
+	
+	
+		<td>뉴젠아이씨티</td>
+		<td style="mso-number-format:'@';text-align:center;">054150</td>
+	
+
+		<td>관리종목지정사유추가(사업보고서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">63</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 20:25</td>
+ 
+	
+	
+		<td>한와이어리스</td>
+		<td style="mso-number-format:'@';text-align:center;">037020</td>
+	
+
+		<td>관리종목지정사유추가(사업보고서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">62</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 20:20</td>
+ 
+	
+	
+		<td>알티전자</td>
+		<td style="mso-number-format:'@';text-align:center;">032290</td>
+	
+
+		<td>관리종목지정사유추가(사업보고서 미제출 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">61</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 20:18</td>
+ 
+	
+	
+		<td>지앤알</td>
+		<td style="mso-number-format:'@';text-align:center;">043630</td>
+	
+
+		<td>관리종목지정사유추가(정기주주총회 미개최 또는 재무제표 미승인 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">60</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 18:11</td>
+ 
+	
+	
+		<td>엔빅스</td>
+		<td style="mso-number-format:'@';text-align:center;">054170</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">59</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 18:10</td>
+ 
+	
+	
+		<td>지노시스템</td>
+		<td style="mso-number-format:'@';text-align:center;">033850</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">58</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-31 07:08</td>
+ 
+	
+	
+		<td>엠엔에프씨</td>
+		<td style="mso-number-format:'@';text-align:center;">048640</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">57</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-30 18:25</td>
+ 
+	
+	
+		<td>나이스메탈</td>
+		<td style="mso-number-format:'@';text-align:center;">072530</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">56</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-30 07:47</td>
+ 
+	
+	
+		<td>디패션</td>
+		<td style="mso-number-format:'@';text-align:center;">030420</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">55</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-29 07:12</td>
+ 
+	
+	
+		<td>지노시스템</td>
+		<td style="mso-number-format:'@';text-align:center;">033850</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">54</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-28 18:17</td>
+ 
+	
+	
+		<td>선팩테크</td>
+		<td style="mso-number-format:'@';text-align:center;">054010</td>
+	
+
+		<td>관리종목지정사유추가(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">53</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-28 17:48</td>
+ 
+	
+	
+		<td>포휴먼</td>
+		<td style="mso-number-format:'@';text-align:center;">049690</td>
+	
+
+		<td>관리종목지정(상장폐지 사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">52</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-28 07:58</td>
+ 
+	
+	
+		<td>대국</td>
+		<td style="mso-number-format:'@';text-align:center;">042340</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">51</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-28 07:28</td>
+ 
+	
+	
+		<td>에코솔루션</td>
+		<td style="mso-number-format:'@';text-align:center;">052510</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">50</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-28 07:25</td>
+ 
+	
+	
+		<td>대국</td>
+		<td style="mso-number-format:'@';text-align:center;">042340</td>
+	
+
+		<td>관리종목지정<font color='#49531'>[정]</font></td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">49</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-25 18:14</td>
+ 
+	
+	
+		<td>피엘에이</td>
+		<td style="mso-number-format:'@';text-align:center;">082390</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">48</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-25 07:13</td>
+ 
+	
+	
+		<td>엠엔에프씨</td>
+		<td style="mso-number-format:'@';text-align:center;">048640</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">47</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-24 15:50</td>
+ 
+	
+	
+		<td>히스토스템</td>
+		<td style="mso-number-format:'@';text-align:center;">036840</td>
+	
+
+		<td>관리종목지정사유추가및일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">46</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-24 14:00</td>
+ 
+	
+	
+		<td>세계투어</td>
+		<td style="mso-number-format:'@';text-align:center;">047600</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">45</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-24 12:30</td>
+ 
+	
+	
+		<td>씨모텍</td>
+		<td style="mso-number-format:'@';text-align:center;">081090</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">44</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-24 10:27</td>
+ 
+	
+	
+		<td>엔빅스</td>
+		<td style="mso-number-format:'@';text-align:center;">054170</td>
+	
+
+		<td>관리종목지정(상장폐지사유발생 외)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">43</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-24 07:16</td>
+ 
+	
+	
+		<td>알티전자</td>
+		<td style="mso-number-format:'@';text-align:center;">032290</td>
+	
+
+		<td>관리종목지정(회생절차 개시신청 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">42</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-24 07:07</td>
+ 
+	
+	
+		<td>케이에스알</td>
+		<td style="mso-number-format:'@';text-align:center;">066340</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">41</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-23 19:04</td>
+ 
+	
+	
+		<td>지앤알</td>
+		<td style="mso-number-format:'@';text-align:center;">043630</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">40</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-23 18:25</td>
+ 
+	
+	
+		<td>한와이어리스</td>
+		<td style="mso-number-format:'@';text-align:center;">037020</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">39</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-23 18:11</td>
+ 
+	
+	
+		<td>뉴젠아이씨티</td>
+		<td style="mso-number-format:'@';text-align:center;">054150</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">38</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-23 18:04</td>
+ 
+	
+	
+		<td>CT&T</td>
+		<td style="mso-number-format:'@';text-align:center;">050470</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">37</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-23 17:20</td>
+ 
+	
+	
+		<td>클라스타</td>
+		<td style="mso-number-format:'@';text-align:center;">037550</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">36</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-23 16:10</td>
+ 
+	
+	
+		<td>에코페트로시스템</td>
+		<td style="mso-number-format:'@';text-align:center;">042870</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">35</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-23 15:13</td>
+ 
+	
+	
+		<td>유니텍전자</td>
+		<td style="mso-number-format:'@';text-align:center;">039040</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생 ,최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">34</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-23 07:22</td>
+ 
+	
+	
+		<td>맥스브로</td>
+		<td style="mso-number-format:'@';text-align:center;">088810</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">33</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-23 07:20</td>
+ 
+	
+	
+		<td>팬스타엔터프라이즈</td>
+		<td style="mso-number-format:'@';text-align:center;">054300</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">32</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 18:35</td>
+ 
+	
+	
+		<td>비엔씨컴퍼니</td>
+		<td style="mso-number-format:'@';text-align:center;">058370</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">31</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 18:20</td>
+ 
+	
+	
+		<td>대양글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">040180</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">30</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 17:52</td>
+ 
+	
+	
+		<td>넥서스투자</td>
+		<td style="mso-number-format:'@';text-align:center;">019430</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">29</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 17:50</td>
+ 
+	
+	
+		<td>콜마파마</td>
+		<td style="mso-number-format:'@';text-align:center;">038710</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">28</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 17:50</td>
+ 
+	
+	
+		<td>아시아미디어홀딩스</td>
+		<td style="mso-number-format:'@';text-align:center;">052810</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">27</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 17:31</td>
+ 
+	
+	
+		<td>큐앤에스</td>
+		<td style="mso-number-format:'@';text-align:center;">052880</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상 외)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">26</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 17:02</td>
+ 
+	
+	
+		<td>에피밸리</td>
+		<td style="mso-number-format:'@';text-align:center;">068630</td>
+	
+
+		<td>관리종목지정(자본잠식률 50%이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">25</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 16:54</td>
+ 
+	
+	
+		<td>에듀패스</td>
+		<td style="mso-number-format:'@';text-align:center;">031950</td>
+	
+
+		<td>관리종목지정(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">24</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 16:04</td>
+ 
+	
+	
+		<td>아이오케이</td>
+		<td style="mso-number-format:'@';text-align:center;">078860</td>
+	
+
+		<td>관리종목지정(자본잠식률50%이상 외)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">23</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 07:40</td>
+ 
+	
+	
+		<td>제일창투</td>
+		<td style="mso-number-format:'@';text-align:center;">026540</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">22</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-22 07:19</td>
+ 
+	
+	
+		<td>위너지스</td>
+		<td style="mso-number-format:'@';text-align:center;">026260</td>
+	
+
+		<td>관리종목지정(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">21</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-21 18:58</td>
+ 
+	
+	
+		<td>대선조선</td>
+		<td style="mso-number-format:'@';text-align:center;">031990</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">20</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-21 18:04</td>
+ 
+	
+	
+		<td>헤파호프</td>
+		<td style="mso-number-format:'@';text-align:center;">039350</td>
+	
+
+		<td>관리종목지정사유추가및일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">19</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-21 17:36</td>
+ 
+	
+	
+		<td>더체인지</td>
+		<td style="mso-number-format:'@';text-align:center;">054120</td>
+	
+
+		<td>관리종목지정(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">18</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-21 17:17</td>
+ 
+	
+	
+		<td>중앙디자인</td>
+		<td style="mso-number-format:'@';text-align:center;">030030</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">17</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-21 17:09</td>
+ 
+	
+	
+		<td>아이스테이션</td>
+		<td style="mso-number-format:'@';text-align:center;">056010</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">16</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-21 17:04</td>
+ 
+	
+	
+		<td>경윤하이드로</td>
+		<td style="mso-number-format:'@';text-align:center;">019120</td>
+	
+
+		<td>관리종목지정사유추가(자본잠식률 50% 이상 외)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">15</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-21 15:17</td>
+ 
+	
+	
+		<td>평산</td>
+		<td style="mso-number-format:'@';text-align:center;">089480</td>
+	
+
+		<td>관리종목지정(최근3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계속사업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">14</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-18 20:03</td>
+ 
+	
+	
+		<td>알덱스</td>
+		<td style="mso-number-format:'@';text-align:center;">025970</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">13</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-18 19:42</td>
+ 
+	
+	
+		<td>알덱스</td>
+		<td style="mso-number-format:'@';text-align:center;">025970</td>
+	
+
+		<td>관리종목지정<font color='#49531'>[정]</font></td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">12</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-16 19:19</td>
+ 
+	
+	
+		<td>스톰이앤에프</td>
+		<td style="mso-number-format:'@';text-align:center;">043680</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">11</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-16 15:08</td>
+ 
+	
+	
+		<td>에이원마이크로</td>
+		<td style="mso-number-format:'@';text-align:center;">037380</td>
+	
+
+		<td>관리종목지정사유일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">10</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-15 19:39</td>
+ 
+	
+	
+		<td>세븐코스프</td>
+		<td style="mso-number-format:'@';text-align:center;">017160</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">9</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-15 18:56</td>
+ 
+	
+	
+		<td>세븐코스프</td>
+		<td style="mso-number-format:'@';text-align:center;">017160</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)<font color='#49531'>[정]</font></td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">8</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-15 15:06</td>
+ 
+	
+	
+		<td>한림창투</td>
+		<td style="mso-number-format:'@';text-align:center;">021060</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">7</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-02-21 17:47</td>
+ 
+	
+	
+		<td>경윤하이드로</td>
+		<td style="mso-number-format:'@';text-align:center;">019120</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">6</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-02-16 18:47</td>
+ 
+	
+	
+		<td>유니텍전자</td>
+		<td style="mso-number-format:'@';text-align:center;">039040</td>
+	
+
+		<td>관리종목지정사유추가(시가총액 40억원 미달 30일 연속)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">5</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-02-10 18:54</td>
+ 
+	
+	
+		<td>스톰이앤에프</td>
+		<td style="mso-number-format:'@';text-align:center;">043680</td>
+	
+
+		<td>관리종목지정사유추가(불성실공시)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">4</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-02-10 18:51</td>
+ 
+	
+	
+		<td>선팩테크</td>
+		<td style="mso-number-format:'@';text-align:center;">054010</td>
+	
+
+		<td>관리종목지정(불성실공시법인지정)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">3</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-02-09 07:08</td>
+ 
+	
+	
+		<td>디에이치패션</td>
+		<td style="mso-number-format:'@';text-align:center;">045260</td>
+	
+
+		<td>관리종목지정사유일부해제(파산 신청 사유 해소)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">2</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-01-18 19:02</td>
+ 
+	
+	
+		<td>대양글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">040180</td>
+	
+
+		<td>관리종목지정사유일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-01-14 17:40</td>
+ 
+	
+	
+		<td>에스브이에이치</td>
+		<td style="mso-number-format:'@';text-align:center;">046240</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+		
+		
+	
+</table>
+
+</body>
+</html>

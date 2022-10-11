@@ -1,0 +1,908 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>상세검색(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+	<col width="5%" />
+	<col width="5%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="50%" />
+	<col width="10%" />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">시간</th>
+		<th bgcolor="#66FF99">회사명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시제목</th>
+		<th bgcolor="#66FF99">제출인</th>
+	</tr>
+	
+	
+	
+	
+		
+			
+	<tr>
+		<td style="text-align:center;">62</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-30 18:04</td>
+ 
+	
+	
+		<td>미주제강</td>
+		<td style="mso-number-format:'@';text-align:center;">002670</td>
+	
+
+		<td>관리종목지정사유추가(회생절차 개시신청 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">61</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-29 18:32</td>
+ 
+	
+	
+		<td>에이프로테크놀로지</td>
+		<td style="mso-number-format:'@';text-align:center;">045470</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">60</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-29 17:13</td>
+ 
+	
+	
+		<td>인스프리트</td>
+		<td style="mso-number-format:'@';text-align:center;">073130</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>관리종목지정사유추가(정기주주총회 미개최 또는 재무제표 미승인)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">59</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-29 14:56</td>
+ 
+	
+	
+		<td>인스프리트</td>
+		<td style="mso-number-format:'@';text-align:center;">073130</td>
+	
+
+		<td>관리종목지정사유추가(정기주주총회 미개최 또는 재무제표 미승인)<font color='#49531'>[정]</font></td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">58</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-28 17:46</td>
+ 
+	
+	
+		<td>클루넷</td>
+		<td style="mso-number-format:'@';text-align:center;">067130</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">57</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-28 14:15</td>
+ 
+	
+	
+		<td>지앤에스티</td>
+		<td style="mso-number-format:'@';text-align:center;">036920</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">56</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-26 18:35</td>
+ 
+	
+	
+		<td>대국</td>
+		<td style="mso-number-format:'@';text-align:center;">042340</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">55</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-26 07:25</td>
+ 
+	
+	
+		<td>디에이치패션</td>
+		<td style="mso-number-format:'@';text-align:center;">045260</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">54</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-23 18:34</td>
+ 
+	
+	
+		<td>미리넷</td>
+		<td style="mso-number-format:'@';text-align:center;">056710</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">53</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-23 17:46</td>
+ 
+	
+	
+		<td>엘앤씨피</td>
+		<td style="mso-number-format:'@';text-align:center;">015390</td>
+	
+
+		<td>관리종목지정사유일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">52</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 21:10</td>
+ 
+	
+	
+		<td>폴리플러스</td>
+		<td style="mso-number-format:'@';text-align:center;">065610</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">51</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 21:05</td>
+ 
+	
+	
+		<td>미성포리테크</td>
+		<td style="mso-number-format:'@';text-align:center;">094700</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">50</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 20:36</td>
+ 
+	
+	
+		<td>어울림 네트</td>
+		<td style="mso-number-format:'@';text-align:center;">042820</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">49</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 20:36</td>
+ 
+	
+	
+		<td>어울림정보</td>
+		<td style="mso-number-format:'@';text-align:center;">038320</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">48</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 20:16</td>
+ 
+	
+	
+		<td>미주제강</td>
+		<td style="mso-number-format:'@';text-align:center;">002670</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">47</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 20:16</td>
+ 
+	
+	
+		<td>비앤비성원</td>
+		<td style="mso-number-format:'@';text-align:center;">015200</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">46</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 19:57</td>
+ 
+	
+	
+		<td>미성포리테크</td>
+		<td style="mso-number-format:'@';text-align:center;">094700</td>
+	
+
+		<td>관리종목지정사유추가<font color='#49531'>[정]</font></td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">45</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 19:31</td>
+ 
+	
+	
+		<td>디브이에스</td>
+		<td style="mso-number-format:'@';text-align:center;">046400</td>
+	
+
+		<td>관리종목지정사유추가및일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">44</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 19:22</td>
+ 
+	
+	
+		<td>코아에스앤아이</td>
+		<td style="mso-number-format:'@';text-align:center;">052350</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">43</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 19:15</td>
+ 
+	
+	
+		<td>어울림엘시스</td>
+		<td style="mso-number-format:'@';text-align:center;">033280</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">42</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 18:38</td>
+ 
+	
+	
+		<td>동양텔레콤</td>
+		<td style="mso-number-format:'@';text-align:center;">007150</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">41</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 18:22</td>
+ 
+	
+	
+		<td>무한투자</td>
+		<td style="mso-number-format:'@';text-align:center;">034510</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">40</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 18:16</td>
+ 
+	
+	
+		<td>룽투코리아</td>
+		<td style="mso-number-format:'@';text-align:center;">060240</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상외 2건)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">39</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 17:54</td>
+ 
+	
+	
+		<td>소니드</td>
+		<td style="mso-number-format:'@';text-align:center;">060230</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">38</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 16:42</td>
+ 
+	
+	
+		<td>녹십자셀</td>
+		<td style="mso-number-format:'@';text-align:center;">031390</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">37</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 16:05</td>
+ 
+	
+	
+		<td>AD모터스</td>
+		<td style="mso-number-format:'@';text-align:center;">038120</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">36</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 14:47</td>
+ 
+	
+	
+		<td>우경</td>
+		<td style="mso-number-format:'@';text-align:center;">025920</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">35</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 14:05</td>
+ 
+	
+	
+		<td>씨앤케이인터</td>
+		<td style="mso-number-format:'@';text-align:center;">039530</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">34</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 14:04</td>
+ 
+	
+	
+		<td>지아이바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">035450</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">33</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-22 07:08</td>
+ 
+	
+	
+		<td>아큐텍</td>
+		<td style="mso-number-format:'@';text-align:center;">013780</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">32</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-21 19:37</td>
+ 
+	
+	
+		<td>에프앤리퍼블릭</td>
+		<td style="mso-number-format:'@';text-align:center;">064090</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">31</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-21 19:24</td>
+ 
+	
+	
+		<td>보광티에스</td>
+		<td style="mso-number-format:'@';text-align:center;">066690</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">30</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-21 19:03</td>
+ 
+	
+	
+		<td>인스프리트</td>
+		<td style="mso-number-format:'@';text-align:center;">073130</td>
+	
+
+		<td>관리종목지정(자본잠식률 50% 이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">29</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-21 18:12</td>
+ 
+	
+	
+		<td>케이엔씨글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">068150</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">28</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-21 16:54</td>
+ 
+	
+	
+		<td>제넥신</td>
+		<td style="mso-number-format:'@';text-align:center;">095700</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">27</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-21 16:36</td>
+ 
+	
+	
+		<td>보광티에스</td>
+		<td style="mso-number-format:'@';text-align:center;">066690</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">26</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-21 15:37</td>
+ 
+	
+	
+		<td>유일엔시스</td>
+		<td style="mso-number-format:'@';text-align:center;">038720</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">25</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-20 18:53</td>
+ 
+	
+	
+		<td>CT&T</td>
+		<td style="mso-number-format:'@';text-align:center;">050470</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">24</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-20 18:49</td>
+ 
+	
+	
+		<td>오리엔트정공</td>
+		<td style="mso-number-format:'@';text-align:center;">065500</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">23</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-20 18:40</td>
+ 
+	
+	
+		<td>평산</td>
+		<td style="mso-number-format:'@';text-align:center;">089480</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">22</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-20 18:09</td>
+ 
+	
+	
+		<td>쎄니트</td>
+		<td style="mso-number-format:'@';text-align:center;">037760</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">21</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-20 15:28</td>
+ 
+	
+	
+		<td>엘앤씨피</td>
+		<td style="mso-number-format:'@';text-align:center;">015390</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">20</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-19 20:13</td>
+ 
+	
+	
+		<td>엔스퍼트</td>
+		<td style="mso-number-format:'@';text-align:center;">098400</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>관리종목지정(자본잠식율 50%이상 등)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">19</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-19 20:11</td>
+ 
+	
+	
+		<td>아이스테이션</td>
+		<td style="mso-number-format:'@';text-align:center;">056010</td>
+	
+
+		<td>관리종목지정사유추가(자기자본 10억원 미만)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">18</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-19 19:17</td>
+ 
+	
+	
+		<td>엔스퍼트</td>
+		<td style="mso-number-format:'@';text-align:center;">098400</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)<font color='#49531'>[정]</font></td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">17</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-19 16:11</td>
+ 
+	
+	
+		<td>피에스엠씨</td>
+		<td style="mso-number-format:'@';text-align:center;">024850</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">16</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-19 08:54</td>
+ 
+	
+	
+		<td>오리엔트정공</td>
+		<td style="mso-number-format:'@';text-align:center;">065500</td>
+	
+
+		<td>관리종목지정사유추가및일부해제</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">15</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-15 19:04</td>
+ 
+	
+	
+		<td>블루젬디앤씨</td>
+		<td style="mso-number-format:'@';text-align:center;">053040</td>
+	
+
+		<td>관리종목지정(상장폐지사유발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">14</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-14 15:21</td>
+ 
+	
+	
+		<td>프리젠</td>
+		<td style="mso-number-format:'@';text-align:center;">060910</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">13</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-12 19:26</td>
+ 
+	
+	
+		<td>아인스M&M</td>
+		<td style="mso-number-format:'@';text-align:center;">040740</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">12</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-12 16:50</td>
+ 
+	
+	
+		<td>라온시큐어</td>
+		<td style="mso-number-format:'@';text-align:center;">042510</td>
+	
+
+		<td>관리종목지정(최근 4사업연도 연속 영업손실 발생 )</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">11</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-12 16:44</td>
+ 
+	
+	
+		<td>평안물산</td>
+		<td style="mso-number-format:'@';text-align:center;">037240</td>
+	
+
+		<td>관리종목지정사유추가</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">10</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-08 17:32</td>
+ 
+	
+	
+		<td>아인스M&M</td>
+		<td style="mso-number-format:'@';text-align:center;">040740</td>
+	
+
+		<td>관리종목지정<font color='#49531'>[정]</font></td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">9</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-03-07 19:18</td>
+ 
+	
+	
+		<td>넷웨이브</td>
+		<td style="mso-number-format:'@';text-align:center;">047730</td>
+	
+
+		<td>관리종목지정(상장폐지사유 발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">8</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-02-23 18:08</td>
+ 
+	
+	
+		<td>유아이에너지</td>
+		<td style="mso-number-format:'@';text-align:center;">050050</td>
+	
+
+		<td>관리종목지정(불성실공시)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">7</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-02-10 18:20</td>
+ 
+	
+	
+		<td>아이팩토리</td>
+		<td style="mso-number-format:'@';text-align:center;">053810</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">6</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-02-07 16:52</td>
+ 
+	
+	
+		<td>보광티에스</td>
+		<td style="mso-number-format:'@';text-align:center;">066690</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">5</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-01-31 18:07</td>
+ 
+	
+	
+		<td>에이프로테크놀로지</td>
+		<td style="mso-number-format:'@';text-align:center;">045470</td>
+	
+
+		<td>관리종목지정(불성실공시법인)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">4</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-01-30 18:26</td>
+ 
+	
+	
+		<td>코아에스앤아이</td>
+		<td style="mso-number-format:'@';text-align:center;">052350</td>
+	
+
+		<td>관리종목지정사유추가(상장폐지사유발생)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">3</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-01-25 17:40</td>
+ 
+	
+	
+		<td>아큐텍</td>
+		<td style="mso-number-format:'@';text-align:center;">013780</td>
+	
+
+		<td>관리종목지정(파산신청)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">2</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-01-19 18:00</td>
+ 
+	
+	
+		<td>CT&T</td>
+		<td style="mso-number-format:'@';text-align:center;">050470</td>
+	
+
+		<td>관리종목지정사유추가(불성실공시)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1</td>
+		<td style="mso-number-format:'@';text-align:center;">2012-01-03 17:52</td>
+ 
+	
+	
+		<td>코아에스앤아이</td>
+		<td style="mso-number-format:'@';text-align:center;">052350</td>
+	
+
+		<td>관리종목지정</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+		
+		
+	
+</table>
+
+</body>
+</html>
